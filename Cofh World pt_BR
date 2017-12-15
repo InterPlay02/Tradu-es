@@ -1,0 +1,6 @@
+
+cofhworld.reload.usage=Recarrega as configurações do CoFHWorld
+cofhworld.reload.successful=Configurações recarregadas.
+cofhworld.reload.failed=Falha ao recarregar as configurações; veja os arquivos de log.
+cofhworld.list.usage=Mostra uma lista com as funcionalidades do CoFHWorld
+cofhworld.list=Funcionalidades disponíveis: %s
