@@ -1,0 +1,72 @@
+// Items
+item.wct.name=Terminal de Fabricação sem Fio
+item.magnet_card.name=Cartão Magnético
+item.infinity_booster_card.name=Cartão de Distância Infinita
+
+// Crative Tab
+itemGroup.wct=Terminal de Fabricação sem Fio
+
+// Blocks
+tile.advanced_charger.name=Carregador Avançado (WIP)
+
+// Tooltips
+tooltip.press_shift.desc=<Pressione Shift>
+tooltip.magnet.desc=Um Ímã que insere itens automaticamente no sistema do Applied Energistics.
+tooltip.magnet_set_filter.desc=Clique direito do mouse para estabelecer um filtro
+tooltip.or_press.desc=ou pressione
+tooltip.press.desc=Pressione
+tooltip.status.desc=Status
+tooltip.active.desc=Ativo
+tooltip.inactive.desc=Inativo
+tooltip.to_switch.desc=para alterar os modos
+tooltip.magnet_active_1.desc=Sugando itens extras
+tooltip.magnet_active_2.desc=Não sugando itens extras
+tooltip.magnet_whitelisting.desc=Listra Branca
+tooltip.magnet_blacklisting.desc=Lista Negra
+tooltip.filter_mode.desc=Modo de Filtro
+tooltip.not.desc=Não
+tooltip.ignoring.desc=Ignorando
+tooltip.nbt.desc=NBT
+tooltip.meta.desc=MetaData
+tooltip.oredict.desc=Ore Dictionary
+tooltip.using.desc=Usando
+tooltip.filtered_items.desc=Itens Filtrados
+tooltip.only_works.desc=Só funciona no slot apropriado de um Terminal de Fabricação sem Fio!
+tooltip.installed.desc=Instalado
+tooltip.infinite_range.desc=Alcance Infinito
+tooltip.infinity_energy.desc=Energia de Infinidade
+tooltip.units.desc=de Unidades
+tooltip.in_wap_range.desc=(Ainda no alcance do Ponto de Acesso sem Fio)
+tooltip.out_of.desc=Sem
+tooltip.infinity_energy_low.desc=Energia de Infinidade está baixa!
+
+// Chat Messages
+chatmessages.magnet_deactivated.desc=Cartão Magnético Desativado
+chatmessages.magnet_activated.desc=Cartão Magnético Ativado
+chatmessages.magnet_init.desc=Você deve primeiro clicar com o botão direito do mouse com o cartão magnético em mãos para poder usar a tecla de atalho!
+
+// Keybindings
+key.open_terminal.desc=Abrir Terminal de Fabricação sem Fio
+key.open_magnet.desc=Abrir GUI de Filtro do Cartão Magnético
+key.switch_magnet_mode.desc=Ativar/Desativar Cartão Magnético
+key.categories.wct=Wireless Crafting Terminal 2
+
+// GUI
+gui.title.magnet_filter=Itens Filtrados
+gui.emptytrash=Esvasiar Lixeira
+gui.emptytrash.desc=Apagar conteúno presente no slot da Lixeira
+gui.openmagnetgui=Abrir GUI de Filtro do Cartão Magnético
+gui.openmagnetgui.desc=Abre a GUI de Filtro do Cartão Magnético
+gui.openmagnetgui.desc2=para configurar os itens filtráveis
+gui.consumeboosters=Auto-Inserção de Cartões
+gui.dontconsumeboosters.desc=Não inserindo Cartões
+gui.consumeboosters.desc=Inserindo cartões automaticamente
+gui.consumeboosters.desc2=(Quando pegado ou no inventário)
+gui.magnetmode=Modo Ímã
+
+// JEI
+jei.wct.desc=Uma versão sem fio do terminal de fabricação do AE2. Para funcionar, ele precisa estar conectado ao sistema ME através de um terminal de segurança. Uma tecla de atalho pode ser estabelecida em Opções->Controle para abrir a GUI.
+jei.wct_bauble.desc=Pode ser usado num dos slots do Baubles
+jei.magnet_card.desc=Um Ímã que insere itens automaticamente no sistema do Applied Energistics. Shift+clique direito do mouse para alterar os modos (que também podem ser alterados por uma tecla de atalho). Clique direito para abri a GUI de filtro (também tem uma tecla de atalho).
+jei.booster_old.desc=Insira um Cartão de Distância Infinita no slot apropriado de um Terminal de Fabricação sem Fio para que este tenha alcance infinito.
+jei.booster.desc=Insira até 2.14 bilhões no slot apropriado de um Terminal de Fabricação sem Fio para adicionar Energia de Infinidade, o que permite ao terminal ser usado mesmo fora do alcance do Ponto de Acesso sem Fio e através de dimensões.
